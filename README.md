@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-RDH&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋 I'm David-RDH
 
 - 🔭 I’m currently working on a management application, ...
